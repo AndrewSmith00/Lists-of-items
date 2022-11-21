@@ -1,4 +1,5 @@
-# lists
+Reactive changing and sorting of items
+https://fabulous-treacle-98a1d7.netlify.app/
 
 ## Project setup
 ```
